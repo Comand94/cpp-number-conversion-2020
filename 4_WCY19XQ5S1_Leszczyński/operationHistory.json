@@ -1,0 +1,15 @@
+{
+	"conversions":
+	[
+		{
+			"input": ",42",
+			"output": "914",
+			"type": "KFE#(C&V>]"
+		},
+		{
+			"input": "<G",
+			"output": ",133,678",
+			"type": "OFZ#(C&IDW"
+		}
+	]
+}
